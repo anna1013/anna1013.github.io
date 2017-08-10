@@ -1,0 +1,16 @@
+body{
+  background-color: lightblue;
+}
+h1{
+  font-family: 'Lobster', cursive;
+}
+h1, p{
+  color: green;
+}
+p{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#slogan{
+  font-style: italic;
+  font-size: 22px;
+}
