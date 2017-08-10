@@ -1,0 +1,12 @@
+body{
+  background-color: lightblue;
+}
+
+h1, p{
+  color: green;
+}
+
+#slogan{
+  font-style: italic;
+  font-size: 22px;
+}
